@@ -30,5 +30,4 @@ I'm Beste Oztop (she/her), a third year PhD student at ECE department aof Boston
 
 ![GitHub Snake dark](https://github.com/beste-oztop/beste-oztop/blob/output/github-snake-dark.svg?palette=github-dark-pink)
 
-![Snake animation](https://github.com/beste-oztop/beste-oztop/blob/output/ocean.gif)
 
