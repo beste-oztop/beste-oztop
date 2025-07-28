@@ -1,16 +1,20 @@
 ## Hi there 👋
+### Welcome to my GitHub profile!
+✨✨✨✨✨✨✨✨✨✨✨ 
+I'm Beste Oztop (she/her), a third year PhD student at ECE department aof Boston University. I graduated Middle East Technical University with a BSc in Electrical and Electronics Engineering in 2023.  
+✨✨✨✨✨✨✨✨✨✨✨
 
-<!--
-**beste-oztop/beste-oztop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working on predicting resource utilization of HPC jobs to increase the performance and efficiency of large scale systems.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beste-oztop/) or : [Email](boztop@bu.edu)
+- ⚡️ Fun fact: ...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+Visitor count: ![Visitor Count](https://profile-counter.glitch.me/besteoztop/count.svg)
+![Top Lang](https://img.shields.io/github/languages/top/yourusername/reponame)
+
+
+Activity![Beste's GitHub stats](https://github-readme-stats.vercel.app/api?username=besteoztop&show_icons=true&theme=radical)
