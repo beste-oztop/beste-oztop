@@ -28,5 +28,7 @@ I'm Beste Oztop (she/her), a third year PhD student at ECE department aof Boston
 ![MPI](https://img.shields.io/badge/MPI-FF6A00?style=flat-square&logo=OpenMP&logoColor=white)
 
 
+![GitHub Snake dark](https://github.com/beste-oztop/beste-oztop/blob/output/github-snake-dark.svg?palette=github-dark-pink)
+
 ![Snake animation](https://github.com/beste-oztop/beste-oztop/blob/output/ocean.gif)
 
