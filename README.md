@@ -2,7 +2,7 @@
 ### ✨ Welcome to my GitHub profile!✨
 
 
-I'm Beste Oztop (she/her), a third year PhD student at ECE department aof Boston University. I graduated Middle East Technical University with a BSc in Electrical and Electronics Engineering in 2023.  
+I'm Beste Oztop (she/her), a third year PhD student at ECE department of Boston University. I graduated Middle East Technical University with a BSc in Electrical and Electronics Engineering in 2023.  
 
 
 - 🔭 I am currently working on predicting resource utilization of HPC jobs to increase the performance and efficiency of large scale systems.
